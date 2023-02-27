@@ -1,2 +1,23 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+body{
+	background: url(https://img.freepik.com/premium-photo/front-view-generic-brandless-moder-car_110488-502.jpg?w=740);
+	background-size:%;
+	background-position:-200px 0px;
+}
+.main{
+	width:300px;
+	margin:10px;
+}
+h2{
+	color: white;
+	text-align:center
+}
+div{
+	color:white;
+}
+
 
 /* Your CSS Code here. */
