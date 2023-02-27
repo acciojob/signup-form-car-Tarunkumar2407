@@ -4,20 +4,51 @@
 }
 body{
 	background: url(https://img.freepik.com/premium-photo/front-view-generic-brandless-moder-car_110488-502.jpg?w=740);
-	background-size:%;
-	background-position:-200px 0px;
+	background-position:-200px 30px;
 }
 .main{
-	width:300px;
-	margin:10px;
+	width:250px;
+	margin:20px;
 }
 h2{
 	color: white;
-	text-align:center
+	text-align:center;
+	font-family: sans-serif;
+	font-size:25px;
 }
 div{
 	color:white;
+	font-family:sans-serif;
 }
-
+.register{
+/* 	background-color:rgba(56,8,72,0.8); */
+	font-size:px;
+}
+form{
+	margin:25px;
+}
+label{
+	font-style: italic;
+}
+#name,#email,#age,#dob,#password{
+	width:200px;
+	padding:2px;
+	border:1px solid #ddd;
+	border-radius:3px;
+	background-color: #fff;
+}
+button#submit{
+	width:205px;
+	padding:5px;
+	font-family: sans-serif;
+	font-weight: 600;
+	border:2px solid black;
+	border-radius: 5px;
+	background-color:rgba(156,56,123,0.8);
+	color:white;
+}
+input{
+	accent-color:black;
+}
 
 /* Your CSS Code here. */
